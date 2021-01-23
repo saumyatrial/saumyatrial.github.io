@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav {
+    
+    top: 0;
+    width: 100%;
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: rgb(83, 71, 78);
+    font-family: "Poppins", sans-serif,"Raleway"; 
+  
+}
+
+.letter p{
+    font-family: "Poppins";
+}
+
+.letter h1{
+    font-family: "Poppins";
+    color: whitesmoke;
+}
+
+.letter li{
+    font-family: "Poppins";
+    color: whitesmoke;
+}
+
+
+div { text-align: center; }
+ul { display: inline-block; text-align: center; }
+
+}
+.modal{
+    text-align: justify;
+}
+
+.left li{
+    text-align: left;
+}
+
+
+
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+
+<style>
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+</style>
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.logo {
+    color:whitesmoke);
+    font:"Raleway";
+    letter-spacing: 7px;
+    font-size: 12px;
+    }
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+}
+
+.nav-links li{
+    list-style:none;
+}
+.nav-links a{
+    color:whitesmoke;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.remove li{
+    list-style:none;
+}
+
+
+
+
